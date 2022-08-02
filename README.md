@@ -1,4 +1,4 @@
-# minecraft-1.12.2-modpack
+# Minecraft 1.12.2 Modpack Server Docker Image
 
 ## What is it?
 
